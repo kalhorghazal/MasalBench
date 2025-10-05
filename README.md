@@ -1,6 +1,6 @@
 # MasalBench
 
-This repository hosts MasalBench, a dataset designed to evaluate large language models on their contextual and cross-cultural understanding of Persian proverbs. The benchmark is introduced in the following paper:
+This repository hosts **MasalBench**, a dataset designed to evaluate large language models on their contextual and cross-cultural understanding of Persian proverbs. The benchmark is introduced in the following paper:
 
 **Title:** "MasalBench: A Benchmark for Contextual and Cross-Cultural Understanding of Persian Proverbs in LLMs"
 
