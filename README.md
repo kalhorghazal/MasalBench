@@ -1,1 +1,7 @@
 # MasalBench
+
+This repository hosts MasalBench, a dataset designed to evaluate large language models on their contextual and cross-cultural understanding of Persian proverbs. The benchmark is introduced in the following paper:
+
+**Title:** "MasalBench: A Benchmark for Contextual and Cross-Cultural Understanding of Persian Proverbs in LLMs"
+
+**Abstract:** "In recent years, multilingual Large Language Models (LLMs) have become an inseparable part of daily life, making it crucial for them to master the rules of conversational language in order to communicate effectively with users. While previous work has evaluated LLMs’ understanding of figurative language in high-resource languages, their performance in low-resource languages remains underexplored. In this paper, we introduce MasalBench, a comprehensive benchmark for assessing LLMs’ contextual and cross-cultural understanding of Persian proverbs, which are a key component of conversation in this low-resource language. We evaluate eight state-of-the-art LLMs on MasalBench and find that they perform well in identifying Persian proverbs in context, achieving accuracies above 0.90. However, their performance drops considerably when tasked with identifying equivalent English proverbs, with the best model achieving 0.79 accuracy. Our findings highlight the limitations of current LLMs in cultural knowledge and analogical reasoning, and they provide a framework for assessing cross-cultural understanding in other low-resource languages."
