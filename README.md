@@ -16,13 +16,15 @@ If you use our dataset in your work, please cite our paper as below.
 
 ```
 @inproceedings{kalhor-2026-masalbench,
-  title     = {MasalBench: A Benchmark for Contextual and Cross-Cultural Understanding of Persian Proverbs in LLMs,
-  author    = {Kalhor, Ghazal and Bahrak, Behnam},
-  booktitle = {Proceedings of the 1st Workshop on Pluralistic Value Alignment of LLMs (PlurVA-LLM)},
-  month     = nov,
-  year      = {2026},
-  address   = {Hengqin, China},
-  publisher = {Association for Computational Linguistics},
-  URL       = {https://aclanthology.org/2026.plurvallm-1.2/}
+    title = "{M}asal{B}ench: A Benchmark for Contextual and Cross-Cultural Understanding of {P}ersian Proverbs in {LLM}s",
+    author = "Kalhor, Ghazal and Bahrak, Behnam",
+    booktitle = "Proceedings of the First Workshop on Pluralistic Value Alignment of {LLM}s",
+    month = nov,
+    year = "2026",
+    address = "Hengqin, China",
+    publisher = "Association for Computational Linguistics",
+    pages = "17--23",
+    url = "https://aclanthology.org/2026.plurvallm-1.2/",
+    ISBN = "979-8-89176-453-8"
 }
 ```
